@@ -172,4 +172,8 @@
     .content-box {
         text-align: left;
     }
+
+    .title-wrapper {
+        margin-top: 20px;
+    }
   }
