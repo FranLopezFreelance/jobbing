@@ -151,3 +151,25 @@
   ::-webkit-scrollbar-thumb {
     background: rgb(113, 142, 238);
   }
+
+  @media (max-width: 600px) {
+    .dot {
+        background-image: none;
+    }
+
+    .body-content {
+        margin-top: 4px!important;
+    }
+
+    .data-content {
+        margin-top: 20px;
+    }
+
+    .content-wrapper {
+        width: 103%!important;
+    }
+
+    .content-box {
+        text-align: left;
+    }
+  }
